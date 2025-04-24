@@ -1,0 +1,8 @@
+{
+  "name": "Mintless Points",
+  "symbol": "Points",
+  "decimals": "9",
+  "image": "https://i.ibb.co/SKMtNTG/mintless.png",
+  "description": "Jetton for mintless technology integration. Official channel: https://t.me/mintless_technology",
+  "custom_payload_api_uri": "https://mintlessapi.loca.lt"
+}
